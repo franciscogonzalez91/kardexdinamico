@@ -3,14 +3,38 @@
 	padding: 0;
 }
 
-body{
+html, body{
+	height: 100%;
+}
+
+html, body, header, main, footer{
 	width: 100%;	
+}
+
+body{
+	height: 100%;
+}
+
+header, footer{
+	height: 10%;
+}
+
+main{
+	height: 80%;
+	margin: 0 15px;
+	overflow-x: auto; 
 }
 
 div{
-	float: left;
+	
+}
+
+.principal{
+
 }
 
 .krdxRow{
-	width: 100%;	
+	width: 114%;
+	float: left;
+	overflow-x: auto;	
 }
