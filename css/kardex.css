@@ -1,0 +1,11 @@
+.krdxMateria{
+	width: 130px;
+	height: 85px;
+	margin: 10px;
+	padding: 40px 10px 0 10px;
+	text-align: center;
+}
+
+.krdxMateria:hover{
+	background-color: #d50000;
+}
